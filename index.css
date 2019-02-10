@@ -106,3 +106,15 @@
      font-size: 20px;
      font-weight: 700;
 }
+#AppLogo{
+    height:100px;
+    width:auto;
+}
+.col-1-6{
+    float:left;
+    width:15%;
+}
+.col-1-2{
+    float:left;
+    width:50%;
+}
