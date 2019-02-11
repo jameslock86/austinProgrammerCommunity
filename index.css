@@ -1,4 +1,5 @@
 *{
+    font-family: 'Lato', sans-serif;      
     margin:0;
     padding:0;
 }
@@ -118,3 +119,16 @@
     float:left;
     width:50%;
 }
+.col-1-1{
+    float:left;
+    width:100%;
+    color:white;
+    background-color:#1351d8;
+}
+#FacebookIcon{
+    height:40px;
+    width:auto;
+}
+
+
+
