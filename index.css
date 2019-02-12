@@ -113,7 +113,7 @@
 }
 .col-1-6{
     float:left;
-    width:15%;
+    width:3%;
 }
 .col-1-2{
     float:left;
@@ -129,6 +129,16 @@
     height:40px;
     width:auto;
 }
-
+#slackIcon{
+    height:40px;
+    width:auto;
+}
+#twitterIcon{
+    height:40px;
+    width:auto;
+}
+.mobile-app-body{
+    margin:50px;
+}
 
 
